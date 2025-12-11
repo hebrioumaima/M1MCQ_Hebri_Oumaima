@@ -1,7 +1,8 @@
-
-
-
-
+#Hebri Oumaima, MCQ, 11/12/2025, https://github.com/hebrioumaima/M1MCQ_Hebri_Oumaima
+#Hallouche Mehdi
+#Bensaid Douaa
+#Benabdellah Imene
+#Dali Yahia Younes
 
 
 import pandas as pd

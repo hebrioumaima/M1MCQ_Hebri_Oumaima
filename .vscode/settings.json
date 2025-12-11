@@ -1,0 +1,8 @@
+{
+  "python.defaultInterpreterPath": "/workspaces/HEBRI_OUMAIMA_MASTER1MCQ/.venv/bin/python",
+  "python.pythonPath": "/workspaces/HEBRI_OUMAIMA_MASTER1MCQ/.venv/bin/python",
+  "python.analysis.typeCheckingMode": "basic",
+  "python.analysis.extraPaths": [
+    ".venv/lib/python3.12/site-packages"
+  ]
+}
